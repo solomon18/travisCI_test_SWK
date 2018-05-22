@@ -1,0 +1,9 @@
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\obj\Debug\netstandard2.0\MyFirstUnitTests.csprojAssemblyReference.cache
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\obj\Debug\netstandard2.0\MyFirstUnitTests.csproj.CoreCompileInputs.cache
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\obj\Debug\netstandard2.0\MyFirstUnitTests.AssemblyInfoInputs.cache
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\obj\Debug\netstandard2.0\MyFirstUnitTests.AssemblyInfo.cs
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\bin\Debug\netstandard2.0\MyFirstUnitTests.deps.json
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\bin\Debug\netstandard2.0\MyFirstUnitTests.dll
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\bin\Debug\netstandard2.0\MyFirstUnitTests.pdb
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\obj\Debug\netstandard2.0\MyFirstUnitTests.dll
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\obj\Debug\netstandard2.0\MyFirstUnitTests.pdb

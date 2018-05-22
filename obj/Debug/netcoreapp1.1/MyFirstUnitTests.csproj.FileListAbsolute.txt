@@ -1,0 +1,11 @@
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\bin\Debug\netcoreapp1.1\MyFirstUnitTests.deps.json
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\bin\Debug\netcoreapp1.1\MyFirstUnitTests.runtimeconfig.json
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\bin\Debug\netcoreapp1.1\MyFirstUnitTests.runtimeconfig.dev.json
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\bin\Debug\netcoreapp1.1\MyFirstUnitTests.dll
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\bin\Debug\netcoreapp1.1\MyFirstUnitTests.pdb
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\obj\Debug\netcoreapp1.1\MyFirstUnitTests.csprojAssemblyReference.cache
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\obj\Debug\netcoreapp1.1\MyFirstUnitTests.csproj.CoreCompileInputs.cache
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\obj\Debug\netcoreapp1.1\MyFirstUnitTests.AssemblyInfoInputs.cache
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\obj\Debug\netcoreapp1.1\MyFirstUnitTests.AssemblyInfo.cs
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\obj\Debug\netcoreapp1.1\MyFirstUnitTests.dll
+d:\SpaceWalk\xUnitTestDir\MyFirstUnitTests\obj\Debug\netcoreapp1.1\MyFirstUnitTests.pdb
