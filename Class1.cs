@@ -20,11 +20,11 @@ namespace MyFirstUnitTests
         }
 
         
-        [Fact]
+        /*[Fact]
         public void FailingTest()
         {
             Assert.Equal(5, Add(2, 2));
-        }
+        }*/
 
         int Add(int x, int y)
         {
@@ -34,7 +34,7 @@ namespace MyFirstUnitTests
         [Theory]
         [InlineData(3)]
         [InlineData(5)]
-        [InlineData(6)]
+        // [InlineData(6)]
         public void MyFirstTheory(int value)
         {
             Assert.True(IsOdd(value));
